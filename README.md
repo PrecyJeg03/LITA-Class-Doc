@@ -2,6 +2,14 @@
 
 ### Project Title: E commerce Sales Analysis
 
+[Project Overview](#project-overview)
+[Data Sources](#data-sources)
+[Tools Used](#tools-used)
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+Exploratory Data Analysis
+Data Analysis
+Data Visualization
+
 ### Project Overview
 ---
 ### Data Sources
@@ -39,4 +47,11 @@ WHERE CONDITION = TRUE
 ![FOR THE WEBSITE](https://github.com/user-attachments/assets/f8455438-e991-4dda-859f-b3a9648f05b4)
 
 
-####
+![bar charts](https://github.com/user-attachments/assets/a2de7a78-b183-4b12-b615-367340c0d05c) 
+
+😆
+👯‍♀️
+
+|Heading 1|Heading 2| Heading 3|
+|---------|---------|----------|
+|Table 1|Table 2| Table 3|
